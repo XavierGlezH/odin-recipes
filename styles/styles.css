@@ -1,0 +1,42 @@
+*{
+    background-color: #FAF3F0;
+    font-family: Georgia, Arial;
+    text-align: center;
+}
+
+h1{
+    color: #594545;
+    font-weight: bold;
+    background-color: #96CEB4;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p, 
+li{
+    font-size: 18px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ol{
+    display: inline-block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+img{
+    width: 350px;
+    height: auto;
+}
+
+.list-img{
+    width: 400px;
+    height: auto;
+}
